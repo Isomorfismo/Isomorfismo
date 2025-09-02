@@ -52,7 +52,7 @@ I’m a **Data Scientist**, with a strong focus on **Natural Language Processing
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isomorfismo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isomorfismo&show_icons=true&theme=tokyonight&hide_border=true" alt="Top Langs")
+  <img src="https://github-readme-stats.vercel.app/api?username=Isomorfismo&rank_icon=github&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isomorfismo&show_icons=true&theme=transparent&hide_border=true" alt="Top Langs")
 
 </p>
