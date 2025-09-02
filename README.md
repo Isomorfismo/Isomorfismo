@@ -51,9 +51,11 @@ I’m a **Data Scientist**, with a strong focus on **Natural Language Processing
 🔹 [Deckout](https://github.com/Isomorfismo/Deckout) – A simple card game, based on Poker, coded in Python using Pygame, used for the study and comprehension of Monte Carlo Methods.
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isomorfismo&rank_icon=github&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isomorfismo&show_icons=true&theme=transparent&hide_border=true" alt="Top Langs")
-
+  <a href="https://github.com/Isomorfismo">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Isomorfismo&rank_icon=github&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Isomorfismo">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isomorfismo&show_icons=true&theme=transparent&hide_border=true" alt="Top Langs" />
+  </a>
 </p>
