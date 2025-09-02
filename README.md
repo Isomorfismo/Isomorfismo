@@ -39,8 +39,8 @@ I’m a **Data Scientist**, with a strong focus on **Natural Language Processing
 ## 🌍 Find Me Around  
 
 - 🧑‍💻 [My Projects](https://github.com/Isomorfismo?tab=repositories)  
-- 📊 [Kaggle Profile](https://huggingface.co/Isomorfismo)  
-- 🤗 [Hugging Face Models](https://www.kaggle.com/isomorfismo)  
+- 📊 [Kaggle Profile](https://www.kaggle.com/isomorfismo)  
+- 🤗 [Hugging Face Models](https://huggingface.co/Isomorfismo)  
 
 ---
 
