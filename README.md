@@ -47,6 +47,7 @@ I’m a **Data Scientist**, with a strong focus on **Natural Language Processing
 ## 📌 Featured Work  
 
 🔹 [The ℤ₄ Game](https://github.com/Isomorfismo/Z4_Game) – A variant of the classic Lights Out puzzle, implemented in Python with Pygame, interested in it´s mathemathical properties.
+
 🔹 [Deckout](https://github.com/Isomorfismo/Deckout) – A simple card game, based on Poker, coded in Python using Pygame, used for the study and comprehension of Monte Carlo Methods.
 
 ---
