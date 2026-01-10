@@ -15,6 +15,7 @@ I’m a **Data Scientist**, with a strong focus on **Natural Language Processing
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -51,6 +52,7 @@ I’m a **Data Scientist**, with a strong focus on **Natural Language Processing
 🔹 [Deckout](https://github.com/Isomorfismo/Deckout) – A simple card game, based on Poker, coded in Python using Pygame, used for the study and comprehension of Monte Carlo Methods.
 
 ---
+<!--
 <p align="center">
   <a>
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Isomorfismo&rank_icon=github&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
@@ -59,3 +61,4 @@ I’m a **Data Scientist**, with a strong focus on **Natural Language Processing
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isomorfismo&show_icons=true&theme=transparent&hide_border=true" alt="Top Langs" />
   </a>
 </p>
+-->
