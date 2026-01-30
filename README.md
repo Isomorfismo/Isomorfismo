@@ -45,7 +45,13 @@ I’m a **Data Scientist**, I'm passionate about **Natural Language Processing (
 
 ---
 
-## 📌 Featured Work  
+## 🥼 Featured Work  
+
+🔹 [ENIGH Analysis](https://github.com/Isomorfismo/ENIGH-Project) – A variant of the classic Lights Out puzzle, implemented in Python with Pygame, interested in it´s mathemathical properties.
+
+---
+
+## 🧩 Side Projects  
 
 🔹 [The ℤ₄ Game](https://github.com/Isomorfismo/Z4_Game) – A variant of the classic Lights Out puzzle, implemented in Python with Pygame, interested in it´s mathemathical properties.
 
