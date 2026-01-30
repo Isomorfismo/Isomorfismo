@@ -1,6 +1,6 @@
 # Isomorfismo 
 
-I’m a **Data Scientist**, I'm passionate about **Natural Language Processing (NLP)**, **Time Series Forecasting**, **Statistical Learning** and **Applied Math**.  
+I’m a **Data Scientist** passionate about **Natural Language Processing**, **Time Series Forecasting**, **Statistical Learning** and **Applied Math**.  
 
 ---
 
