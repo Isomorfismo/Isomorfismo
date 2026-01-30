@@ -1,6 +1,6 @@
 # Isomorfismo 
 
-I’m a **Data Scientist**, with a strong focus on **Natural Language Processing (NLP)**, **Time Series Forecasting**, and **Bayesian / Statistical Learning**.  
+I’m a **Data Scientist**, I'm passionate about **Natural Language Processing (NLP)**, **Time Series Forecasting**, **Statistical Learning** and **Applied Math**.  
 
 ---
 
