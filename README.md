@@ -47,7 +47,9 @@ I’m a **Data Scientist** passionate about **Natural Language Processing**, **T
 
 ## 🥼 Featured Work  
 
-🔹 [ENIGH Analysis](https://github.com/Isomorfismo/ENIGH-Project) – A variant of the classic Lights Out puzzle, implemented in Python with Pygame, interested in it´s mathemathical properties.
+🔹 [Housing price prediction in Mexico City Metropolitan Area](https://github.com/Isomorfismo/Analisis-precio-vivienda-ZMCM) – An in depth analysis of the current situation of the housing market in MCMA using real data, data science, machine learning and time series forecasting *[Work In Progress]*.
+
+🔹 [ENIGH Analysis](https://github.com/Isomorfismo/ENIGH-Project) – Statistical regression approach to analyse salary-based income in Mexican households using data from the National Survey of Household Income and Expenditure.
 
 ---
 
