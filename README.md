@@ -47,7 +47,9 @@ I’m a **Data Scientist** passionate about **Natural Language Processing**, **T
 
 ## 🥼 Featured Work  
 
-🔹 [Housing price prediction in Mexico City Metropolitan Area](https://github.com/Isomorfismo/Analisis-precio-vivienda-ZMCM) – An in depth analysis of the current situation of the housing market in MCMA using real data, data science, machine learning and time series forecasting *[Work In Progress]*.
+🔹 [Housing price prediction in Mexico City Metropolitan Area](https://github.com/Isomorfismo/Analisis-precio-vivienda-ZMCM) – An in depth analysis of the current situation of the housing market in MCMA using real data, data science, machine learning and time series forecasting.
+
+⏩ Dashboard at: [huggingface.co/spaces/Isomorfismo/dashboard-cdmx](https://huggingface.co/spaces/Isomorfismo/dashboard-cdmx)
 
 🔹 [ENIGH Analysis](https://github.com/Isomorfismo/ENIGH-Project) – Statistical regression approach to analyse salary-based income in Mexican households using data from the National Survey of Household Income and Expenditure.
 
