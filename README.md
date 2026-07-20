@@ -59,6 +59,8 @@ I’m a **Data Scientist** passionate about **Natural Language Processing**, **T
 
 🔹 [The ℤ₄ Game](https://github.com/Isomorfismo/Z4_Game) – A variant of the classic Lights Out puzzle, implemented in Python with Pygame, interested in it´s mathemathical properties.
 
+🔹 [Castle Game](https://isomorfismo.itch.io/castillo) – An original card game, implemented in Python with Pygame, play for fun with various AI levels and interesting mechanics.
+
 🔹 [Deckout](https://github.com/Isomorfismo/Deckout) – A simple card game, based on Poker, coded in Python using Pygame, used for the study and comprehension of Monte Carlo Methods.
 
 ---
